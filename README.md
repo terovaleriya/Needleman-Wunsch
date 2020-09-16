@@ -17,9 +17,9 @@ By default gap_penalty, mismatch_penalty and match_award are -1, -1 and 1 respec
 # Example
 An example of the program input/output:
 
-    Given sequences: `ATTACA, ATGCTA`
+    Given sequences: ATTACA, ATGCTA
 
-    Algorithm aligment result: `ATTAC-A, A-TGCTA`.
+    Algorithm aligment result: ATTAC-A, A-TGCTA.
     
 Note that this example includes both mismatches and gaps as asked.
 
